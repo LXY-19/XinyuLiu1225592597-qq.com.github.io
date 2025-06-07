@@ -22,10 +22,10 @@ author:
   avatar           : "profile.png"
   name             : "Xinyu Liu"
   pronouns         : "he/him"  
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Location"
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "1225592597@example.org" 
 
   # Academic websites
   academia         : # URL
